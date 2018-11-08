@@ -4,7 +4,7 @@
   "icon": "icon.png",
   "commands": [
     {
-      "name": "my-command",
+      "name": "Toggle Layers",
       "identifier": "my-command-identifier",
       "script": "my-command.js"
     }
@@ -13,7 +13,8 @@
     "title": "toggleLayers",
     "items": [
       "my-command-identifier"
-    ]
+    ],
+    "isRoot": true
   },
   "version": "0.1.0",
   "name": "toggleLayers",
