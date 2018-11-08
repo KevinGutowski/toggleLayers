@@ -16,11 +16,12 @@
     ],
     "isRoot": true
   },
-  "version": "0.1.0",
+  "version": "0.2.0",
+  "description": "One action to toggle layers on / off so that you can more easily remap this to a custom keyboard shortcut.",
   "name": "toggleLayers",
   "identifier": "toggleLayers",
   "disableCocoaScriptPreprocessor": true,
-  "appcast": "https://raw.githubusercontent.com//master/.appcast.xml",
+  "appcast": "https://raw.githubusercontent.com/KevinGutowski/toggleLayers/master/.appcast.xml",
   "author": "Kevin Gutowski",
   "authorEmail": "kgutowski@berkeley.edu"
 }
